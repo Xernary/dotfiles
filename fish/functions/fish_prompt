@@ -1,0 +1,6 @@
+function fish_prompt
+                               set_color purple
+                               set_color FF0
+                               echo (pwd) '>'
+                               set_color normal
+                           end
