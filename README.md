@@ -6,16 +6,16 @@ Note: If you want to clone this repo be aware that some features might not work.
 
 ## Waybar
 
-![image] (.screenshots/image2.png)
+![image](.screenshots/image2.png)
 
 
 ## Nvim
 
-![image] (.screenshots/nvim.png)
-![image] (.screenshots/nvim2.png)
+![image](.screenshots/nvim.png)
+![image](.screenshots/nvim2.png)
 
 
 
 ## Hyprland
 
-![image] (.screenshots/image4.png) 
+![image](.screenshots/image4.png) 
