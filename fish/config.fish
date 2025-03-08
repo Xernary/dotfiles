@@ -3,3 +3,7 @@ if status is-interactive
     starship init fish | source 
     neofetch
 end
+
+# disable welcome prompt
+set -g fish_greeting
+
