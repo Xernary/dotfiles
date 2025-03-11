@@ -28,6 +28,7 @@ window#waybar.hidden {
         color: transparent;
 	background: transparent;
 }
+
 #workspaces {
 	margin-top: 6px;
 	margin-left: 0px;
