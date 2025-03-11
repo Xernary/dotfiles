@@ -30,7 +30,7 @@ window#waybar.hidden {
 }
 #workspaces {
 	margin-top: 6px;
-	margin-left: 12px;
+	margin-left: 0px;
 	font-size: 2px;
 	margin-bottom: 0px;
 	border-radius: 10px;
