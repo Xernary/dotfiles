@@ -8,7 +8,9 @@ if status is-interactive
     fastfetch --config arch
 end
 
-# disable welcome prompt
+# Disable welcome prompt
 set -g fish_greeting
 
+# Source custom environment variables
+source $HOME/.config/fish/custom_env_vars.fish
 
