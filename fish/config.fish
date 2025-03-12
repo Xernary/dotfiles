@@ -4,7 +4,8 @@ alias svim="sudo -e"
 if status is-interactive
     # Commands to run in interactive sessions can go here
     starship init fish | source 
-    neofetch
+    # neofetch
+    fastfetch --config arch
 end
 
 # disable welcome prompt
